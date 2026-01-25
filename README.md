@@ -1,4 +1,4 @@
-In this repository there are code about:
+In this repository there are codes about:
 1 Central Limit Theorem
 2 Importance Sampling
 3 Black-Sholes Equations
@@ -7,6 +7,6 @@ In this repository there are code about:
 7 Liquid Simulation with Molecular Dynamics and Metropolis
 8 Simulated Annealing
 9 Genetic Algorithm
-10 Genetic Algorithm with 
-11 
-12 
+10 Parallel Genetic Algorithm 
+11 Regression with Machine Learning
+12 Image 
