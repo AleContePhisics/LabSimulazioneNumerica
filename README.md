@@ -20,3 +20,4 @@ Each directory contains a Jupyter Notebook that explains the idea behind the sim
 - For the more complex simulations, the Jupyter notebooks are located in the `SOURCE` directory.  
 - For the simpler ones, they are located in the main directory of the project.
 - Exercise 5 was intended only for master’s students, so it is missing on purpose.
+- While the code logic and variables are designed to be self-explanatory, please note that the narrative reports and detailed explanations within the Jupyter Notebooks are written in Italian, as they were originally prepared for academic submission in Italy.
