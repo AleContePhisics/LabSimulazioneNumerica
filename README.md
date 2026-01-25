@@ -5,7 +5,8 @@ In this repository, you can find code related to the following topics:
 1. Central Limit Theorem  
 2. Importance Sampling  
 3. Black-Scholes Equations  
-4. Molecular Dynamics  
+4. Molecular Dynamics
+5. (Master Students)
 6. Ising Model 1D  
 7. Liquid Simulation with Molecular Dynamics and Metropolis  
 8. Simulated Annealing  
