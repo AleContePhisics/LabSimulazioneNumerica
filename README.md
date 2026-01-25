@@ -1,4 +1,4 @@
-# Simulation and Machine Learning Codes
+# Numerical Simulations Projects
 
 In this repository, you can find code related to the following topics:
 
